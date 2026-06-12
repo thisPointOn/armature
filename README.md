@@ -20,6 +20,18 @@ converter ships as a self-contained executable.
 - Package: https://yak.rhino3d.com/packages/armature
 - Food4Rhino listing: (link follows after review)
 
+## Documentation
+
+- [Getting started](docs/getting-started.md) — 15 minutes from Rhino to Isaac Sim
+- [Component reference](docs/components.md) — every component, input, output, and right-click preset
+- [Preset libraries](docs/presets.md) — all material, motor, transmission, joint-type, and sensor values
+- [Material workflow](docs/materials.md) — mass from geometry, the friction model, gripper pads
+- [Plane placement](docs/plane-placement.md) — link, joint, and sensor frame conventions
+- [Sensors](docs/sensors.md) — cameras, lidar, IMU, force/torque
+- [Arrayed links](docs/arrayed-links.md) — many identical links/joints from a few components
+- [SimReady conformance](docs/simready.md) — Robot-Body-Neutral / Runnable profiles
+- [Troubleshooting](docs/troubleshooting.md) — exploding robots and other classics
+
 ## Support
 
 - **Bugs / questions:** open an [issue](../../issues)
